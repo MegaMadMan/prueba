@@ -30,7 +30,7 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 ## Scripts disponibles para el server
 En el directorio del proyecto server, puede ejecutar:
 ### `npm run api`
-Abra [http: // localhost: 3001/characters](http: // localhost: 3001/characters) para verlo en el navegador.
+Abra [http://localhost: 3001/characters](http://localhost: 3001/characters) para verlo en el navegador.
 La página se volverá a cargar si realiza modificaciones. <br>
 También verá cualquier error en la consola.
 
